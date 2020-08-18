@@ -14,7 +14,9 @@ function walkToPark(dogName, dogBreed) {
   console.log("");
 }
 
-function 
+function (dogName, dogBreed) { 
+  console.log("");
+}
 
 function 
 
