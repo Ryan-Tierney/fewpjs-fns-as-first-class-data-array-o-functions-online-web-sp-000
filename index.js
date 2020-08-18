@@ -14,12 +14,14 @@ function walkToPark(dogName, dogBreed) {
   console.log("");
 }
 
-function (dogName, dogBreed) { 
+function throwFrisbee(dogName, dogBreed) { 
   console.log("");
 }
 
-function (dogName, dogBreed) { 
+function walkHome(dogName, dogBreed) { 
   console.log("");
 }
 
-function 
+function unleashDog(dogName, dogBreed) { 
+  console.log("");
+}
